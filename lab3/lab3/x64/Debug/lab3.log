@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\yashw\OneDrive\Desktop\fall2024\C++\labs\lab3\lab3\main.cpp(9,25): error C7624: Type name 'Ship' cannot appear on the right side of a class member access expression
+  C:\Users\yashw\OneDrive\Desktop\fall2024\C++\labs\lab3\lab3\student.h(7,7):
+  see declaration of 'Ship'
+  
+C:\Users\yashw\OneDrive\Desktop\fall2024\C++\labs\lab3\lab3\main.cpp(13,8): error C2374: 'myObjPointer': redefinition; multiple initialization
+  C:\Users\yashw\OneDrive\Desktop\fall2024\C++\labs\lab3\lab3\main.cpp(7,8):
+  see declaration of 'myObjPointer'
+  
+C:\Users\yashw\OneDrive\Desktop\fall2024\C++\labs\lab3\lab3\main.cpp(15,24): error C7624: Type name 'Ship' cannot appear on the right side of a class member access expression
+  C:\Users\yashw\OneDrive\Desktop\fall2024\C++\labs\lab3\lab3\student.h(7,7):
+  see declaration of 'Ship'
+  
